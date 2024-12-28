@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-In the third part of this study, we answer the questions: what are the prospects for the US economy and under what conditions would the debt-to-GDP ratio reach 175%. This percentage is considered a critical point, beyond which the sustainability of the economy is already in question.
+In the third part of this study, we answer the questions: what are the prospects for the US economy and under what conditions would the debt-to-GDP ratio reach 175%. This percentage is considered a critical point beyond which the sustainability of the economy is already in question. Several additional trends are also outlined, relevant conclusions are drawn.
 
 ## **License**
 
@@ -23,4 +23,4 @@ If you have any questions or comments about Project Title, please contact **[Eng
 
 ## **Conclusion**
 
-That's it!👋
+Read the conclusions in the main .ipynb file. It's worth it!That's it! 👋
