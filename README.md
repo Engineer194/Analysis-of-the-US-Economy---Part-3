@@ -1,0 +1,26 @@
+# **Analysis of the US Economy - Part 3**
+
+## **Introduction**
+
+In the third part of this study, we answer the questions: what are the prospects for the US economy and under what conditions would the debt-to-GDP ratio reach 175%. This percentage is considered a critical point, beyond which the sustainability of the economy is already in question.
+
+## **License**
+
+Project Title is released under the MIT License.
+See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
+
+## **Authors and Acknowledgment**
+
+Project Title was created by **[Engineer194](https://github.com/Engineer194/Engineer194)**.
+
+## **Changelog**
+
+- **0.5.0:** Initial release
+
+## **Contact**
+
+If you have any questions or comments about Project Title, please contact **[Engineer194](engine@abv.bg)**.
+
+## **Conclusion**
+
+That's it!👋
