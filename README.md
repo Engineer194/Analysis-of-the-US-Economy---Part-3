@@ -15,7 +15,7 @@ Project Title was created by **[Engineer194](https://github.com/Engineer194/Engi
 
 ## **Changelog**
 
-- **0.5.0:** Initial release
+- **December 2024** Initial release
 
 ## **Contact**
 
